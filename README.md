@@ -14,3 +14,13 @@
 
 > 디자인 패턴
 1. [Command Pattern : 메서드를 객체화하다!](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%BB%A4%EB%A7%A8%EB%93%9C%20%ED%8C%A8%ED%84%B4/CommandPattern.md)
+
+
+<br><br/>
+
+> 알고리즘
+1. [Binary Search_이진 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/BinarySearch.md)
+
+2. [DFS_깊이 우선 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/DFS.md)
+
+3. [BFS_너비 우선 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BFS/BFS.md)
