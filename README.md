@@ -3,7 +3,7 @@
 
 
 > C#
-1. [객체 지향의 4대 원칙 + SOLID](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/C%23/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%204%EB%8C%80%20%ED%8A%B9%EC%A7%95.md)
+1. [객체 지향의 4대 원칙 + SOLID](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/C%23/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%EC%9D%98%204%EB%8C%80%20%ED%8A%B9%EC%A7%95/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%204%EB%8C%80%20%ED%8A%B9%EC%A7%95.md)
 
 2. [메모리 영역에 대하여](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/C%23/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%98%81%EC%97%AD/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%98%81%EC%97%AD.md)
 
