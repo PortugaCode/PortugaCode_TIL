@@ -24,3 +24,5 @@
 2. [DFS_깊이 우선 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/DFS.md)
 
 3. [BFS_너비 우선 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BFS/BFS.md)
+
+4. [Astar 알고리즘](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/AStar/Astar.md)
