@@ -11,12 +11,15 @@
 
 4. [박싱과 언박싱](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%EB%B0%95%EC%8B%B1%EA%B3%BC%20%EC%96%B8%EB%B0%95%EC%8B%B1/%EB%B0%95%EC%8B%B1%EA%B3%BC%20%EC%96%B8%EB%B0%95%EC%8B%B1.md)
 
+
 <br><br/>
 
 > 디자인 패턴
 1. [Strategy Pattern : 객체 지향 코드의 기초!](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4/StrategyPattern.md)
    
 2. [Command Pattern : 메서드를 객체화하다!](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%BB%A4%EB%A7%A8%EB%93%9C%20%ED%8C%A8%ED%84%B4/CommandPattern.md)
+
+3. [FSM : 유한 상태 기계](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%9C%A0%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B8%B0%EA%B3%84(FSM)/FSM.md)
 
 
 <br><br/>
