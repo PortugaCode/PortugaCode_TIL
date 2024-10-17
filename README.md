@@ -32,3 +32,9 @@
 3. [BFS_너비 우선 탐색](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BFS/BFS.md)
 
 4. [Astar 알고리즘](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/AStar/Astar.md)
+
+   
+<br><br/>
+
+> 수학
+1. [MAP 공식](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%88%98%ED%95%99/MAP%20%EC%88%98%ED%95%99%20%EA%B3%B5%EC%8B%9D/Mapping.md)
