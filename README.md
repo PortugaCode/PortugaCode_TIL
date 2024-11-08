@@ -2,6 +2,11 @@
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPortugaCode)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@portuga_code/)](https://velog.io/@portuga_code/) 
 
 
+> 컴퓨터 지식
+1. [운영체제](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%A7%80%EC%8B%9D/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
+
+
+
 > 코딩 기초
 1. [객체 지향의 4대 원칙 + SOLID](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%EC%9D%98%204%EB%8C%80%20%ED%8A%B9%EC%A7%95/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%204%EB%8C%80%20%ED%8A%B9%EC%A7%95.md)
 
