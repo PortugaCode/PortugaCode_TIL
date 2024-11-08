@@ -11,7 +11,7 @@
 
 4. [박싱과 언박싱](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%EB%B0%95%EC%8B%B1%EA%B3%BC%20%EC%96%B8%EB%B0%95%EC%8B%B1/%EB%B0%95%EC%8B%B1%EA%B3%BC%20%EC%96%B8%EB%B0%95%EC%8B%B1.md)
 
- 
+5. [가비지 컬렉터](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0.md)
 
 <br><br/>
 
