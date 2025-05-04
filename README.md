@@ -1,5 +1,5 @@
 ## Today I Learned
-square&logo=github&link=https://velog.io/@portuga_code/)](https://velog.io/@portuga_code/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@portuga_code/)](https://velog.io/@portuga_code/) 
 
 
 > 컴퓨터 지식
