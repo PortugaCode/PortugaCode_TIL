@@ -19,6 +19,8 @@
 
 5. [가비지 컬렉터](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0.md)
 
+6. [해시 테이블](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88/%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94(Hash%20Table)/%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
+
 <br><br/>
 
 > 디자인 패턴
