@@ -5,6 +5,8 @@
 > 컴퓨터 지식
 1. [운영체제](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%A7%80%EC%8B%9D/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 
+2. [CPU 작동 원리](https://github.com/PortugaCode/PortugaCode_TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%A7%80%EC%8B%9D/CPU%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC/CPU%20%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
+
 
 <br><br/>
 
